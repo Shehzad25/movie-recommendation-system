@@ -43,7 +43,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/Shehzad25/movie-recommendation-system.git
 cd movie-recommendation-system
 
 Install dependencies:
