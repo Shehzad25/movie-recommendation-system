@@ -31,12 +31,8 @@ Flask (Web Application)
 Project Structure
 
 movie-recommendation-system/
-│-- tmdb_5000_movies.csv
-│-- tmdb_5000_credits.csv
 │-- Movie_recommender_system.ipynb
 │-- app.py
-│-- movies_dict.pkl
-│-- similarity.pkl
 │-- README.md
 
 Installation & Usage
@@ -50,11 +46,9 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Run the Flask app:
+Run the Streamlit app:
 
 python app.py
-
-Open the browser and go to http://127.0.0.1:5000/ to access the app.
 
 How It Works
 
